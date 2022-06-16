@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282032883300",
+    "project_id": "doapp-f6138",
+    "storage_bucket": "doapp-f6138.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282032883300:android:3cd3f1ac132b97492e0171",
+        "android_client_info": {
+          "package_name": "com.example.do2app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282032883300-q63ggf0kqcntkk8t2j28polrd705ij8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-VIBVdNn9tAoUZKau9tptv3jqvX_IZeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282032883300-q63ggf0kqcntkk8t2j28polrd705ij8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
